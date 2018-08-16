@@ -1,0 +1,42 @@
+E:\Project khach hanh\Project1\Project1\bin\Release\Project1.exe.config
+E:\Project khach hanh\Project1\Project1\obj\Release\Project1.vbproj.ResolveComReference.cache
+E:\Project khach hanh\Project1\Project1\bin\Release\Project1.exe
+E:\Project khach hanh\Project1\Project1\bin\Release\Project1.pdb
+E:\Project khach hanh\Project1\Project1\bin\Release\Project1.xml
+E:\Project khach hanh\Project1\Project1\bin\Release\CButtonLib.dll
+E:\Project khach hanh\Project1\Project1\bin\Release\CButtonLib.pdb
+E:\Project khach hanh\Project1\Project1\bin\Release\CButtonLib.xml
+E:\Project khach hanh\Project1\Project1\obj\Release\Project1.vbprojResolveAssemblyReference.cache
+E:\Project khach hanh\Project1\Project1\obj\Release\Project1.Hieuchinh.resources
+E:\Project khach hanh\Project1\Project1\obj\Release\Project1.Login.resources
+E:\Project khach hanh\Project1\Project1\obj\Release\Project1.QuanLyCan.resources
+E:\Project khach hanh\Project1\Project1\obj\Release\Project1.Resources.resources
+E:\Project khach hanh\Project1\Project1\obj\Release\Project1.Quanlyxuatnhap.resources
+E:\Project khach hanh\Project1\Project1\obj\Release\Project1.Tenvamanguyenlieu.resources
+E:\Project khach hanh\Project1\Project1\obj\Release\Project1.Thongke.resources
+E:\Project khach hanh\Project1\Project1\obj\Release\Project1.Xemhang.resources
+E:\Project khach hanh\Project1\Project1\obj\Release\Project1.vbproj.GenerateResource.Cache
+E:\Project khach hanh\Project1\Project1\obj\Release\Project1.exe
+E:\Project khach hanh\Project1\Project1\obj\Release\Project1.xml
+E:\Project khach hanh\Project1\Project1\obj\Release\Project1.pdb
+F:\Project1\Project1\bin\Release\Project1.exe.config
+F:\Project1\Project1\obj\Release\Project1.vbproj.ResolveComReference.cache
+F:\Project1\Project1\obj\Release\Project1.exe
+F:\Project1\Project1\obj\Release\Project1.xml
+F:\Project1\Project1\obj\Release\Project1.pdb
+F:\Project1\Project1\bin\Release\Project1.exe
+F:\Project1\Project1\bin\Release\Project1.pdb
+F:\Project1\Project1\bin\Release\Project1.xml
+F:\Project1\Project1\bin\Release\CButtonLib.dll
+F:\Project1\Project1\bin\Release\CButtonLib.pdb
+F:\Project1\Project1\bin\Release\CButtonLib.xml
+F:\Project1\Project1\obj\Release\Project1.vbprojResolveAssemblyReference.cache
+F:\Project1\Project1\obj\Release\Project1.Hieuchinh.resources
+F:\Project1\Project1\obj\Release\Project1.Login.resources
+F:\Project1\Project1\obj\Release\Project1.QuanLyCan.resources
+F:\Project1\Project1\obj\Release\Project1.Resources.resources
+F:\Project1\Project1\obj\Release\Project1.Quanlyxuatnhap.resources
+F:\Project1\Project1\obj\Release\Project1.Tenvamanguyenlieu.resources
+F:\Project1\Project1\obj\Release\Project1.Thongke.resources
+F:\Project1\Project1\obj\Release\Project1.Xemhang.resources
+F:\Project1\Project1\obj\Release\Project1.vbproj.GenerateResource.Cache
